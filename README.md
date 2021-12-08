@@ -1,2 +1,2 @@
 # homeassistant-kanowand
-home assistant intgration for kanowand
+home assistant integration for kanowand
